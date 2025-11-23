@@ -1,0 +1,9 @@
+# Extraction logs and temporary files
+extraction.log
+temp_ocr/
+*.png
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
