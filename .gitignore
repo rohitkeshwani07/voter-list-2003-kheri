@@ -1,5 +1,6 @@
 # Extraction logs and temporary files
 extraction.log
+extraction_final.log
 temp_ocr/
 *.png
 
